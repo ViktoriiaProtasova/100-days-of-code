@@ -16,6 +16,22 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/serene-raman-y39xdf?file=/src/index.js)
 
+### Day 3: March 23, 2023
+
+**Today's Progress**: Solved practical problems on JS.
+
+**Thoughts:** I continue to explore JS. I solve problems on the current topic. Sometimes I feel like I'll never get the hang of it. But I am keep in try.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/green-moon-empbu8?file=/src/index.js)
+
+### Day 4: March 24, 2023
+
+**Today's Progress**: Solved practical problems on JS.
+
+**Thoughts:** I like to feel a little like a programmer. Even if it's just a drop in the ocean, I'm still involved.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/upbeat-tereshkova-dpw6v0)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
