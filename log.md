@@ -32,6 +32,14 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/upbeat-tereshkova-dpw6v0)
 
+### Day 5: March 25, 2023
+
+**Today's Progress**: Fixed HTML, CSS, JS worked on functionality for the weather app. I have finished work on the weather forecasting project.
+
+**Thoughts:**: Today was really difficult. I feel a lack of knowledge and practical experience. But at the same time it is incredibly interesting, I am proud that I managed.
+
+**Link to work:** [Weather project](https://she-codes-weather.netlify.app/)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
