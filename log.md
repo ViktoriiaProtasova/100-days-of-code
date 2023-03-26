@@ -40,6 +40,14 @@
 
 **Link to work:** [Weather project](https://she-codes-weather.netlify.app/)
 
+### Day 6: March 26, 2023
+
+**Today's Progress**: I continued to solve the tasks on JS. I had some theory and practiced well.
+
+**Thoughts:**: Today, I trained successfully and solved all the planned tasks on JS. To be continued.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/keen-brahmagupta-6ggp6r?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
