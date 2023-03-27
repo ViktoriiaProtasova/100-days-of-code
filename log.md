@@ -48,6 +48,14 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/keen-brahmagupta-6ggp6r?file=/src/index.js)
 
+### Day 7: March 27, 2023
+
+**Today's Progress**: I'm still working on the JS challenge. I had some theory and practiced well.
+
+**Thoughts:**: Today, I trained successfully and solved all the planned tasks on JS. To be continued.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/kind-cherry-02tnzw?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
