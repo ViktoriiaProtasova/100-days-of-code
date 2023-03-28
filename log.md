@@ -54,7 +54,15 @@
 
 **Thoughts:**: Today, I trained successfully and solved all the planned tasks on JS. To be continued.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/kind-cherry-02tnzw?file=/src/index.js)
+**Link to work:** [The solve of task](https://codesandbox.io/s/restless-waterfall-fi8q71?file=/src/index.js)
+
+### Day 8: March 28, 2023
+
+**Today's Progress**: Today I continued studying callbacks and arrow functions and practiced solving problems on JS.
+
+**Thoughts:**: I get very upset when I don't understand something in theory, or when I can't solve a problem right away. I need additional motivation.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/sad-pasteur-z1mifn?file=/src/index.js)
 
 <!-- **Link(s) to work**
 
