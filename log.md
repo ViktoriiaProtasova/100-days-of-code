@@ -64,6 +64,14 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/sad-pasteur-z1mifn?file=/src/index.js)
 
+### Day 8: March 28, 2023
+
+**Today's Progress**: Today I have continued studying arrays methods and practice solving problems on JS.
+
+**Thoughts:**: Today I am a little more confident, because the topic is more clear to me. This cannot help but please.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/clever-currying-thwf7o?file=/src/index.js:3394-3436)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
