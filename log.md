@@ -80,6 +80,16 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
 
+### Day 11: March 31, 2023
+
+**Today's Progress**: Today I have worked on SheCodes Responsive Week 1 challenge.
+
+**Thoughts:**: I like to markup and style pages. It is very useful for me - to repeat the material I have passed and learn new details.
+
+1. [Challenge solution one](https://codesandbox.io/s/multiple-html-pages-challenge-forked-pvvhxr?file=/contact.html)
+2. [Challenge solution two](https://codesandbox.io/s/advanced-html-links-challenge-forked-6nd3xn?file=/src/styles.css)
+3. [Challenge solution three](https://codesandbox.io/s/css-variables-challenge-forked-zpijbd?file=/src/styles.css)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
