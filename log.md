@@ -91,6 +91,14 @@
 3. [Challenge solution three](https://codesandbox.io/s/css-variables-challenge-forked-zpijbd?file=/src/styles.css)
 4. [Challenge solution four](https://codesandbox.io/s/homework-template-forked-kxsvl0?file=/index.html)
 
+### Day 12: April 01, 2023
+
+**Today's Progress**: Today I have continued studying arrays methods and practice solving problems on JS.
+
+**Thoughts:**: I have practiced Tasks on some advanced JavaScript features.
+
+**Link to work:** [The solve of task](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
