@@ -99,6 +99,19 @@
 
 **Link to work:** [The solve of task](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
 
+### Day 13: April 02, 2023
+
+**Today's Progress**: Today I did a lab to improve my Bio page using Bootstrap
+In this lab, I updated my Introduction to HTML5 and CSS bio page to use Bootstrap.
+
+The expected result is a two-column bio page with your name and photo in the left column and your favorite music artists and movies in the right column.
+I have successfully passed Course 1 Assessment: Introduction to Web Development from META.
+
+**Thoughts:**:
+
+**Link to work:** [The solve of Lab](https://codesandbox.io/s/solitary-night-2xob9q?file=/index.html)
+**Link to certificate:** [The certificate from Meta](https://www.coursera.org/account/accomplishments/verify/FP8PBLLWRN6L)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
