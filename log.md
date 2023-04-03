@@ -14,7 +14,7 @@
 
 **Thoughts:** I really struggled with JS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/serene-raman-y39xdf?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/serene-raman-y39xdf?file=/src/index.js)
 
 ### Day 3: March 23, 2023
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** I continue to explore JS. I solve problems on the current topic. Sometimes I feel like I'll never get the hang of it. But I am keep in try.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/green-moon-empbu8?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/green-moon-empbu8?file=/src/index.js)
 
 ### Day 4: March 24, 2023
 
@@ -30,7 +30,7 @@
 
 **Thoughts:** I like to feel a little like a programmer. Even if it's just a drop in the ocean, I'm still involved.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/upbeat-tereshkova-dpw6v0)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/upbeat-tereshkova-dpw6v0)
 
 ### Day 5: March 25, 2023
 
@@ -46,7 +46,7 @@
 
 **Thoughts:**: Today, I trained successfully and solved all the planned tasks on JS. To be continued.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/keen-brahmagupta-6ggp6r?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/keen-brahmagupta-6ggp6r?file=/src/index.js)
 
 ### Day 7: March 27, 2023
 
@@ -54,7 +54,7 @@
 
 **Thoughts:**: Today, I trained successfully and solved all the planned tasks on JS. To be continued.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/restless-waterfall-fi8q71?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/restless-waterfall-fi8q71?file=/src/index.js)
 
 ### Day 8: March 28, 2023
 
@@ -62,7 +62,7 @@
 
 **Thoughts:**: I get very upset when I don't understand something in theory, or when I can't solve a problem right away. I need additional motivation.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/sad-pasteur-z1mifn?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/sad-pasteur-z1mifn?file=/src/index.js)
 
 ### Day 9: March 29, 2023
 
@@ -70,7 +70,7 @@
 
 **Thoughts:**: Today I am a little more confident, because the topic is more clear to me. This cannot help but please.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/clever-currying-thwf7o?file=/src/index.js:3394-3436)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/clever-currying-thwf7o?file=/src/index.js:3394-3436)
 
 ### Day 10: March 30, 2023
 
@@ -78,7 +78,7 @@
 
 **Thoughts:**: Today I studied the reduce method in more detail. But it takes more practice.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/elated-roman-kotj31?file=/src/index.js)
 
 ### Day 11: March 31, 2023
 
@@ -97,7 +97,7 @@
 
 **Thoughts:**: I have practiced Tasks on some advanced JavaScript features.
 
-**Link to work:** [The solve of task](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/clever-hypatia-69zlpo?file=/src/index.js)
 
 ### Day 13: April 02, 2023
 
@@ -107,10 +107,14 @@ In this lab, I updated my Introduction to HTML5 and CSS bio page to use Bootstra
 The expected result is a two-column bio page with your name and photo in the left column and your favorite music artists and movies in the right column.
 I have successfully passed Course 1 Assessment: Introduction to Web Development from META.
 
-**Thoughts:**:
-
 **Link to work:** [The solve of Lab](https://codesandbox.io/s/solitary-night-2xob9q?file=/index.html)
 **Link to certificate:** [The certificate from Meta](https://www.coursera.org/account/accomplishments/verify/FP8PBLLWRN6L)
+
+### Day 14: April 03, 2023
+
+**Today's Progress**: Today I have continued studying and practice solving problems on JS.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/strange-feistel-nxqvui?file=/src/index.js)
 
 <!-- **Link(s) to work**
 
