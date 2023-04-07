@@ -134,6 +134,14 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/unruffled-golick-pvrl41?file=/src/index.js)
 
+### Day 18: April 07, 2023
+
+**Today's Progress**: Today I have worked on SheCodes Responsive Week 2 challenge.
+
+**Link to work:** [Challenge solution one](https://codesandbox.io/s/utility-css-classes-challenge-forked-yvkewx?file=/index.html)
+**Link to work:** [Challenge solution two](https://codesandbox.io/s/responsive-grids-challenge-forked-7fundm)
+**Link to work:** [Challenge solution three](https://codesandbox.io/s/responsive-images-challenge-forked-p2ugsw?file=/index.html)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
