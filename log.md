@@ -154,6 +154,10 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I started the JavaScript Algorithms and Data Structures course at Free Code Camp. In this course, I will learn the fundamental concepts of JavaScript programming.
 **Thoughts:**: I believe that the method of repeated repetition will give a good result. Therefore, I am taking the course again from the beginning to consolidate my knowledge and deepen my understanding of the JS language.
 
+### Day 21: April 10, 2023
+
+**Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
