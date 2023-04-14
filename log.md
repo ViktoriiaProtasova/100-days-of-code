@@ -170,6 +170,14 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
 
+### Day 24: April 13, 2023
+
+**Today's Progress**: Today I have worked on SheCodes Responsive Week 3 challenge.
+
+**Link to work:** [Challenge solution one](https://codesandbox.io/s/media-queries-challenge-forked-slhk90?file=/index.html)
+**Link to work:** [Challenge solution two](https://croissant-multiplepage-hosting.netlify.app/)
+**Link to work:** [Challenge solution three](https://codesandbox.io/s/advanced-bootstrap-homework-challenge-forked-4hy7di?file=/about.html:1982-2015)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
