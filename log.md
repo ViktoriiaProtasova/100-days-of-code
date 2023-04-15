@@ -170,7 +170,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
 
-### Day 24: April 14, 2023
+### Day 25: April 14, 2023
 
 **Today's Progress**: Today I have worked on SheCodes Responsive Week 3 challenge.
 
@@ -178,7 +178,10 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Link to work:** [Challenge solution two](https://croissant-multiplepage-hosting.netlify.app/)
 **Link to work:** [Challenge solution three](https://codesandbox.io/s/advanced-bootstrap-homework-challenge-forked-4hy7di?file=/about.html:1982-2015)
 
-https://responcive-seo-friendly-homework.netlify.app
+### Day 26: April 15, 2023
+
+**Today's Progress**: Today I have worked on SheCodes Responsive Week 3 HW.
+**Link to work:** [Responsive Week 3 HW](https://responcive-seo-friendly-homework.netlify.app)
 
 <!-- **Link(s) to work**
 
