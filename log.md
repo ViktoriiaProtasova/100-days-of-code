@@ -192,6 +192,10 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/laughing-sky-djwpg8?file=/src/index.js)
 
+### Day 29: April 18, 2023
+
+**Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
