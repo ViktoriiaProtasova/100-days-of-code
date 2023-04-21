@@ -205,6 +205,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I solved homework problems from the "Full Stack developer" course from GoIT.
 **Link to work:** [The solve of tasks](https://viktoriiaprotasova.github.io/goit-js-hw-06/)
 
+### Day 32: April 21, 2023
+
+**Today's Progress**: Today I continued solve homework problems from the "Full Stack developer" course from GoIT and continued working on the SheCodes Responsive Week 4 challenge.
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-06/blob/main/README.md)
+**Link to work:** [Challenge solution three](https://viktoriiaprotasova3762.invisionapp.com/freehand/Portfolio-aI0a35wZa?dsid_h=fe5d4cc0b9346e6d4ec3f9cf2461bbb5c8ef5c571ab42af52f9a6359900ca018&uid_h=522e783fe84a920a776bcf568699f365701c259b7daa058ea2d13b24a0aa5e04)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
