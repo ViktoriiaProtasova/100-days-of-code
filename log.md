@@ -217,6 +217,11 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-06)
 **Link to work:** [Challenge solution three](https://protasova-portfolio-project.netlify.app)
 
+### Day 34: April 23, 2023
+
+**Today's Progress**: Today I continued working on the SheCodes Responsive Week 4 HW.
+**Link to work:** [Challenge solution three](https://protasova-portfolio-project.netlify.app)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
