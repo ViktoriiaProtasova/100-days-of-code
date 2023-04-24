@@ -222,6 +222,10 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I continued working on the SheCodes Responsive Week 4 HW.
 **Link to work:** [Challenge solution three](https://protasova-portfolio-project.netlify.app)
 
+### Day 35: April 24, 2023
+
+**Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
