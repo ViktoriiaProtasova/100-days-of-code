@@ -230,6 +230,16 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I continued the JavaScript Algorithms and Data Structures course at #FreeCodeCamp.
 
+### Day 37: April 26, 2023
+
+**Today's Progress**: Today I was working hard on the JavaScript Homework in my GoIT course.
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-07)
+
+### Day 38: April 27, 2023
+
+**Today's Progress**: Today I continued working on the JavaScript Homework in my GoIT course.
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-07)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
