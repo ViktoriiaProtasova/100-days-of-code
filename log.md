@@ -240,6 +240,11 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I continued working on the JavaScript Homework in my GoIT course.
 **Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-07)
 
+### Day 39: April 28, 2023
+
+**Today's Progress**: Today I was working on the SheCodes Responsive Week 5 HW.
+**Link to work:** [Challenge solution three](https://protasova-portfolio-project.netlify.app/)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
