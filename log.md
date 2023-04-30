@@ -250,6 +250,14 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 **Today's Progress**: Today I continued working on the SheCodes Responsive Week 5 HW.
 **Link to work:** [Challenge solution three](https://protasova-portfolio-project.netlify.app)
 
+### Day 41: April 30, 2023
+
+**Today's Progress**: Today I have finished work on the portfolio project.
+
+**Thoughts:**: It was a more difficult task than it seemed at first. But it turned out to be extremely interesting and useful. I now have a great portfolio site that presents me well as a developer and honestly matches my skill level. I will gladly continue its further development and filling with my own interesting projects.
+
+**Link to work:** [The solve of tasks](https://protasova-portfolio-project.netlify.app)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
