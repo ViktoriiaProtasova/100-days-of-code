@@ -287,7 +287,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/cocky-platform-cml0l6?file=/src/index.js)
 
-### Day 48: May 07, 2023
+### Day 49: May 08, 2023
 
 **Today's Progress**: Today I have continued practice timers in JS.
 
