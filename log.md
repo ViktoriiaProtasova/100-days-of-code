@@ -287,6 +287,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/cocky-platform-cml0l6?file=/src/index.js)
 
+### Day 48: May 07, 2023
+
+**Today's Progress**: Today I have continued practice timers in JS.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/vigilant-bhabha-z4gn4q)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
