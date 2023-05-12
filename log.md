@@ -305,6 +305,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/fancy-wave-1oeg07?file=/src/index.js)
 
+### Day 52: May 11, 2023
+
+**Today's Progress**: Today I have continued work on the JavaScript Homework in my GIT course.
+
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-09/tree/main)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
