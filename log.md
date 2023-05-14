@@ -323,6 +323,14 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-09/tree/main)
 
+### Day 55: May 14, 2023
+
+**Today's Progress**: Today I finished my JavaScript homework in my GoIT course. It gets harder every time.
+
+**Thoughts:**: Sometimes I think I'll never do it. I mean my learning and understanding of programming. But I'll force it to give up.
+
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-js-hw-09)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
