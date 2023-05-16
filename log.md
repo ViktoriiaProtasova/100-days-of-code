@@ -335,6 +335,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I have practice my JavaScript lesson in my GoIT course.
 
+### Day 57: May 16, 2023
+
+**Today's Progress**: Today I was practicing Pagination in my JavaScript lesson in my GIT course.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/agitated-bardeen-lu6hkq)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
