@@ -347,6 +347,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/bold-leaf-e0kbfk?file=/src/index.js)
 
+### Day 59: May 18, 2023
+
+**Today's Progress**: Today I have continued practicing Pagination in my JavaScript lesson in my GIT course.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/bold-leaf-e0kbfk?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
