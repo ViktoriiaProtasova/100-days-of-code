@@ -389,6 +389,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I have continued practice Asynchronous functions in my JavaScript lesson in my GIT course.
 
+### Day 67: May 26, 2023
+
+**Today's Progress**: Today I've started work on the JavaScript Homework in my GIT course.
+
+**Link to work:** [The solve of tasks](https://viktoriiaprotasova.github.io/goit-js-hw-11/)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
