@@ -401,7 +401,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://viktoriiaprotasova.github.io/goit-js-hw-11/)
 
-### Day 68: May 27, 2023
+### Day 69: May 28, 2023
 
 **Today's Progress**: Today I have finished work on the JavaScript Homework in my GoIT course.
 
