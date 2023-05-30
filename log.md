@@ -411,6 +411,10 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I've started repiting the JavaScript course to prepare to my team project in my GIT course.
 
+### Day 71: May 30, 2023
+
+**Today's Progress**: Today I've continued repiting the JavaScript course to prepare to my team project in my GIT course.
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
