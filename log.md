@@ -415,6 +415,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I've continued repiting the JavaScript course to prepare to my team project in my GIT course.
 
+### Day 72: May 31, 2023
+
+**Today's Progress**: Today I've continued repiting the JavaScript course to prepare to my team project in my GIT course. Particularly I practiced a reduce() method.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/elegant-paper-v3yrvi?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
