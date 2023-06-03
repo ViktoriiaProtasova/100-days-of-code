@@ -409,21 +409,21 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 ### Day 70: May 29, 2023
 
-**Today's Progress**: Today I've started repiting the JavaScript course to prepare to my team project in my GIT course.
+**Today's Progress**: Today I've started repiting the JavaScript course to prepare for my team project in my GIT course.
 
 ### Day 71: May 30, 2023
 
-**Today's Progress**: Today I've continued repiting the JavaScript course to prepare to my team project in my GIT course.
+**Today's Progress**: Today I've continued repiting the JavaScript course to prepare for my team project in my GIT course.
 
 ### Day 72: May 31, 2023
 
-**Today's Progress**: Today I've continued repiting the JavaScript course to prepare to my team project in my GIT course. Particularly I practiced a reduce() method.
+**Today's Progress**: Today I've continued repiting the JavaScript course to prepare for my team project in my GIT course. Particularly I practiced a reduce() method.
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/elegant-paper-v3yrvi?file=/src/index.js)
 
 ### Day 73-75: June 01-03, 2023
 
-**Today's Progress**: These days I've continued repiting the JavaScript course to prepare to my team project in my GIT course.
+**Today's Progress**: These days I've continued repeating the JavaScript course to prepare for my team project in my GIT course.
 
 <!-- **Link(s) to work**
 
