@@ -429,7 +429,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I've continued repiting the JavaScript course to prepare for my team project in my GIT course.
 
-**Link to work:** [The solve of tasks](https://codesandbox.io/s/infallible-fermi-mxwepjs)
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/infallible-fermi-mxwepj)
 
 <!-- **Link(s) to work**
 
