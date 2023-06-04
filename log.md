@@ -427,7 +427,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 ### Day 76: June 04, 2023
 
-**Today's Progress**: Today I've continued repiting the JavaScript course to prepare for my team project in my GIT course.
+**Today's Progress**: Today I've continued repeating the JavaScript course to prepare for my team project in my GIT course.
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/infallible-fermi-mxwepj)
 
