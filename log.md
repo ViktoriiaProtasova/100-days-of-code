@@ -431,6 +431,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://codesandbox.io/s/infallible-fermi-mxwepj)
 
+### Day 77: June 05, 2023
+
+**Today's Progress**: Today I've continued repeating the JavaScript course to prepare for my team project in my GIT course. Particularly I practiced a Document Object Model.
+
+**Link to work:** [The solve of tasks](https://codesandbox.io/s/awesome-voice-igrltb?file=/src/index.js)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
