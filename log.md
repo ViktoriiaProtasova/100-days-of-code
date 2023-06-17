@@ -441,6 +441,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: Today I've continued repeating the JavaScript course to prepare for my team project in my GIT course. Particularly I practiced Async functions.
 
+### Day 79-88: June 07-16, 2023
+
+**These days Progress**: These days I was working hard on my team project in my GIT course. We have realized a cinema site project using HTML, CSS, and JS.
+
+**Link to work:** [The solve of tasks](evgenyaroviy.github.io/async-avengers/)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
