@@ -447,6 +447,14 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](evgenyaroviy.github.io/async-avengers/)
 
+### Day 89: June 17, 2023
+
+**Today's Progress**: The 89th day of #100DaysOfCode is over! Today I've continued repeating the JavaScript course to improve my tech skill.
+
+### Day 90: June 18, 2023
+
+**Today's Progress**: The 90th day of #100DaysOfCode is over! Today I've continued repeating the JavaScript course to improve my tech skill.
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
