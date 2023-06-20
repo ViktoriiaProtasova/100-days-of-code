@@ -463,8 +463,6 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Today's Progress**: The 92st day of #100DaysOfCode is over! I've continued learning React today. Also i've practiced on Codewars.
 
-**Link to work:** [The solve of tasks](https://www.codewars.com/users/ViktoriiaProtasova/badges/micro)
-
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
