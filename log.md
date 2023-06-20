@@ -461,7 +461,7 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 ### Day 92: June 20, 2023
 
-**Today's Progress**: The 92st day of #100DaysOfCode is over! I've continued learning React today. Also i've practiced on Codewars.
+**Today's Progress**: The 92nd day of #100DaysOfCode is over! I've continued learning React today. Also, I've practiced on Codewars.
 
 <!-- **Link(s) to work**
 
