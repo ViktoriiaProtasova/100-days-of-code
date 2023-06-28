@@ -469,6 +469,12 @@ I have successfully passed Course 1 Assessment: Introduction to Web Development 
 
 **Link to work:** [The solve of tasks](https://viktoriiaprotasova.github.io/goit-react-hw-01-components/)
 
+### Days 99-100: June 26-27, 2023
+
+**Today's Progress**: These days of #100DaysOfCode I've continued learning React and completed the first part of my HW.
+
+**Link to work:** [The solve of tasks](https://github.com/ViktoriiaProtasova/goit-react-hw-02-feedback)
+
 <!-- **Link(s) to work**
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
